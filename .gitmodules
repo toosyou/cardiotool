@@ -1,0 +1,6 @@
+[submodule "cardio_api"]
+	path = cardio_api
+	url = https://github.com/toosyou/cardio_api
+[submodule "MIPLab-Webapp"]
+	path = MIPLab-Webapp
+	url = https://github.com/writerwriter/MIPLab-Webapp
